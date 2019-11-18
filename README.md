@@ -2,6 +2,7 @@
 Ejercicio de prueba en C# sobre .NET
 
 Para ejecutar la aplicación basta con hacer doble click sobre "Prueba.exe" previamente compilado.
+Cabe destacar que el fichero CSV facilitado es muy pesado y la ejecución de la aplicación tarda mucho en terminar.
 
 En caso de tener más tiempo:
 - Investigar sobre una librería que permita leer ficheros subidos a la nube sin necesidad de descargarlo previamente.
