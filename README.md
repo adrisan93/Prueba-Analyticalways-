@@ -1,7 +1,7 @@
 # Prueba-Analyticalways-
 Ejercicio de prueba en C# sobre .NET
 
-Para ejecutar la aplicación basta con hacer doble click sobre "Prueba.exe" previamente compilado.
+Para ejecutar la aplicación basta con hacer doble click sobre "Prueba.exe" previamente compilado. Tambien podemos abrir la solucion con Visual Studio.
 Cabe destacar que el fichero CSV facilitado es muy pesado y la ejecución de la aplicación tarda mucho en terminar.
 
 En caso de tener más tiempo:
